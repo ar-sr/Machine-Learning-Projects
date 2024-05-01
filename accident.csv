@@ -1,0 +1,21 @@
+Date,Time,Weather,Road_Type,Number_of_Vehicles,Severity
+2024-04-01,08:00,Sunny,Highway,2,Minor
+2024-04-02,13:30,Rainy,City Street,1,Major
+2024-04-03,17:45,Foggy,Rural Road,3,Major
+2024-04-04,09:15,Sunny,Highway,2,Minor
+2024-04-05,16:20,Cloudy,City Street,1,Minor
+2024-04-06,11:10,Snowy,Rural Road,4,Major
+2024-04-07,07:55,Sunny,Highway,2,Minor
+2024-04-08,14:40,Rainy,City Street,1,Minor
+2024-04-09,18:25,Foggy,Rural Road,3,Major
+2024-04-10,10:30,Sunny,Highway,2,Major
+2024-04-11,15:15,Cloudy,City Street,1,Minor
+2024-04-12,12:05,Snowy,Rural Road,4,Major
+2024-04-13,08:45,Sunny,Highway,2,Minor
+2024-04-14,16:50,Rainy,City Street,1,Minor
+2024-04-15,19:20,Foggy,Rural Road,3,Major
+2024-04-16,09:00,Sunny,Highway,2,Major
+2024-04-17,14:25,Cloudy,City Street,1,Minor
+2024-04-18,10:55,Snowy,Rural Road,4,Major
+2024-04-19,07:35,Sunny,Highway,2,Minor
+2024-04-20,15:10,Rainy,City Street,1,Minor
